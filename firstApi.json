@@ -1,5 +1,3 @@
-[
-  {
-    "message":"Received first API Call response",
-  }
-]
+{
+    "message":"Received first API Call response"
+}
